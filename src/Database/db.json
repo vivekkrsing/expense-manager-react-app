@@ -1,0 +1,168 @@
+{
+    "users": [
+      {
+        "id": 101,
+        "username": "admin_singh",
+        "password": "admin123"
+      },
+      {
+        "id": 102,
+        "username": "vivek_singh",
+        "password": "vivek123"
+      },
+      {
+        "id": 102,
+        "username": "vikash_singh",
+        "password": "vikash123"
+      },
+      {
+        "id": 102,
+        "username": "vishal_singh",
+        "password": "vishal123"
+      },
+      {
+        "id": 102,
+        "username": "sahil_singh",
+        "password": "sahil123"
+      }
+    ],
+        "expenses": [
+      {
+        "id": 1,
+        "type": "food",
+        "name": "Vegetables",
+        "date": "2024-10-20",
+        "amount": 850
+      },
+      {
+        "id": 2,
+        "type": "transport",
+        "name": "Bus Ticket",
+        "date": "2024-10-21",
+        "amount": 315
+      },
+      {
+        "id": 3,
+        "type": "entertainment",
+        "name": "Movie",
+        "date": "2024-10-22",
+        "amount": 1020
+      },{
+        "id": 4,
+        "type": "Sports",
+        "name": "Turf",
+        "date": "2024-10-22",
+        "amount": 2000
+      },{
+        "id": 5,
+        "type": "Outing",
+        "name": "Dinner",
+        "date": "2024-10-22",
+        "amount": 1020
+      },{
+        "id": 6,
+        "type": "food",
+        "name": "Fruits",
+        "date": "2024-10-20",
+        "amount": 850
+      },
+      {
+        "id": 7,
+        "type": "transport",
+        "name": "Train Ticket",
+        "date": "2024-10-21",
+        "amount": 315
+      },
+      {
+        "id": 8,
+        "type": "entertainment",
+        "name": "X-BOX",
+        "date": "2024-10-22",
+        "amount": 1020
+      },{
+        "id": 9,
+        "type": "Sports",
+        "name": "Cricket",
+        "date": "2024-10-22",
+        "amount": 2000
+      },{
+        "id": 10,
+        "type": "Outing",
+        "name": "snacks",
+        "date": "2024-10-22",
+        "amount": 1020
+      }
+    ], 
+    "incomes": [
+      
+        {
+          "id": 1,
+          "itype": "salary",
+          "iname": "Salary",
+          "idate": "2024-10-01",
+          "iamount": 3000
+        },
+        {
+          "id": 2,
+          "itype": "freelance",
+          "iname": "Project",
+          "idate": "2024-10-15",
+          "iamount": 500
+        },
+        {
+          "id": 3,
+          "itype": "investment",
+          "iname": "Dividends",
+          "idate": "2024-10-20",
+          "iamount": 200
+        },{
+          "id": 4,
+          "itype": "Bussiness",
+          "iname": "Profits",
+          "idate": "2024-10-20",
+          "iamount": 200
+        },{
+          "id": 5,
+          "itype": "Rent",
+          "iname": "flat Rent",
+          "idate": "2024-10-20",
+          "iamount": 200
+        },{
+          "id": 6,
+          "itype": "salary",
+          "iname": "Bonus",
+          "idate": "2024-10-01",
+          "iamount": 3000
+        },
+        {
+          "id": 7,
+          "itype": "freelance",
+          "iname": "Work",
+          "idate": "2024-10-15",
+          "iamount": 500
+        },
+        {
+          "id": 8,
+          "itype": "investment",
+          "iname": "Redeems",
+          "idate": "2024-10-20",
+          "iamount": 200
+        },{
+          "id": 9,
+          "itype": "Bussiness",
+          "iname": "Extra Profits",
+          "idate": "2024-10-20",
+          "iamount": 200
+        },{
+          "id": 10,
+          "itype": "Rent",
+          "iname": "shop Rent",
+          "idate": "2024-10-20",
+          "iamount": 200
+        }
+      ]
+      
+    
+    
+    
+}
